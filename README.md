@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-##### Hi, I'm Parksubo
-##### I'm major in Computer Science In Chungname National University.
-##### I'm interested in Back-end :D
+##### o Hi, I'm Parksubo
+##### o I'm major in Computer Science In Chungname National University.
+##### o I'm interested in Back-end :D
 
 <!--
 **parksubo/parksubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
