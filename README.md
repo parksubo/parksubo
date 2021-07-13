@@ -2,7 +2,9 @@
 
 ##### o Hi, I'm Parksubo
 ##### o I'm major in Computer Science In Chungname National University.
-##### o I'm interested in Back-end :D
+##### o I'm interested in Game Developing and AI :D
+
+##### o My Blog Link : https://subo0521.tistory.com/
 
 <!--
 **parksubo/parksubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
