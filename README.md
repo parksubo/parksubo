@@ -6,6 +6,8 @@
 
 ##### o My Blog Link : https://subo0521.tistory.com/
 
+##### o My YouTube Link : https://www.youtube.com/channel/UCtgED3_hqwLsb6M6poQiVkQ
+
 <!--
 **parksubo/parksubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
